@@ -1,0 +1,22 @@
+# Build output
+build/
+*.mv
+
+# Environment
+.env
+.env.local
+
+# Node
+node_modules/
+package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
